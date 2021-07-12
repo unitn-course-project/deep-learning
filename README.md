@@ -1,4 +1,4 @@
-# Person attribute Classification and re-identification - Unitn course project
+# Person attribute Classification and re-identification - Unitn's course project
 
 In this project, we used deep learning method for attributes classification and re-identification tasks. For each
 task, we tried to combine several methods to improve performance and also experiment un different network architectures. 
